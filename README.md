@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hi there 👋</h1>
-  It's just yet another boring person here. 💤
+  <h4>It's just yet another boring person here. 💤</h4>
+  <br/>
+  <a href="https://github.com/Nyrest" target="_blank"><img src="https://count.getloli.com/get/@Nyrest?theme=rule34" alt="Visitor Counter"></a>
   <h1>Statistics</h1>
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nyrest&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&border_radius=0&line_height=21&count_private=true&include_all_commits=true" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyrest&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&border_radius=0" />
 
@@ -57,9 +59,11 @@
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-003B77?style=for-the-badge&logo=timescale&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Kysely](https://img.shields.io/badge/Kysely-FFFFFF?style=for-the-badge&logoColor=black)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
 
 ### Ops
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -72,6 +76,10 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logoColor=white)
 ![Windmill](https://img.shields.io/badge/Windmill-3b82f6?style=for-the-badge&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Iceberg](https://img.shields.io/badge/Iceberg-2677b9?style=for-the-badge&logoColor=black)
 
 ### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
