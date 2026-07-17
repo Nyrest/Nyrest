@@ -4,7 +4,7 @@
   <br/>
   <a href="https://github.com/Nyrest" target="_blank"><img src="https://count.getloli.com/get/@Nyrest?theme=rule34" alt="Visitor Counter"></a>
   <h1>Statistics</h1>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nyrest&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&border_radius=0&line_height=21&count_private=true&include_all_commits=true" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyrest&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&border_radius=0" />
+  <img height="137px" src="https://github-stats-extended.vercel.app/api?username=nyrest&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&border_radius=0&line_height=21&count_private=true&include_all_commits=true" /><img height="137px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nyrest&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&border_radius=0" />
 
   <h1>Streak</h1>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nyrest&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
